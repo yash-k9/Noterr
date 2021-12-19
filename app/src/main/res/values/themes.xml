@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <bool name="lightNavEnabled">true</bool>
+
+    <style name="Theme.Noterr" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/status</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/primary</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/status</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">@bool/lightNavEnabled</item>
+        <item name="android:navigationBarColor" tools:targetApi="o">@color/primary</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">@bool/lightNavEnabled</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
