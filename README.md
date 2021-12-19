@@ -27,5 +27,3 @@ Check out Expenso README for more info
 
 ## Contribute 🤝
 Feel free to Contribute
-
-Find the [APK]() here 
