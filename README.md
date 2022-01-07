@@ -9,25 +9,26 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 <table>
     <tr>
         <td>
-            <img src="assets/screenshot1.jpg" height=400px/>
+            <img src="assets/screenshot1.png" height=400px/>
         </td>
         <td>
-            <img src="assets/screenshot2.jpg" height=400px/>
+            <img src="assets/screenshot2.png" height=400px/>
         </td>
         <td>
-            <img src="assets/screenshot3.jpg" height=400px/>
+            <img src="assets/screenshot3.png" height=400px/>
         </td>
     </tr>
-
+</table>
+<table>
     <tr>
         <td>
-            <img src="assets/darkmodeScreenshot1.jpg" height=400px/>
+            <img src="assets/darkmodeScreenshot1.png" height=400px/>
         </td>
         <td>
-            <img src="assets/darkmodeScreenshot2.jpg" height=400px/>
+            <img src="assets/darkmodeScreenshot2.png" height=400px/>
         </td>
         <td>
-            <img src="assets/darkmodeScreenshot3.jpg" height=400px/>
+            <img src="assets/darkmodeScreenshot3.png" height=400px/>
         </td>
     </tr>
 
@@ -47,7 +48,7 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 <br />
 
 ### TODO
-- [ ] Add Screenshots
+- [X] Add Screenshots
 - [ ] Add Logo
 - [ ] Add Snackbar on Delete
 - [ ] Code Comments and update README
