@@ -2,7 +2,36 @@
 Noterr is a Note-Taking app built with modern android components using MVVM architecture
 - Add, Edit Notes
 - Swipe for Delete
+- Search Notes
 - Supports Light and Dark Mode
+
+## Preview
+<table>
+    <tr>
+        <td>
+            <img src="assets/screenshot1.jpg" height=400px/>
+        </td>
+        <td>
+            <img src="assets/screenshot2.jpg" height=400px/>
+        </td>
+        <td>
+            <img src="assets/screenshot3.jpg" height=400px/>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <img src="assets/darkmodeScreenshot1.jpg" height=400px/>
+        </td>
+        <td>
+            <img src="assets/darkmodeScreenshot2.jpg" height=400px/>
+        </td>
+        <td>
+            <img src="assets/darkmodeScreenshot3.jpg" height=400px/>
+        </td>
+    </tr>
+
+</table>
 
 <br />
 
@@ -16,6 +45,12 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 - [Jetpack Navigation](https://developer.android.com/guide/navigation)
 
 <br />
+
+### TODO
+- [ ] Add Screenshots
+- [ ] Add Logo
+- [ ] Add Snackbar on Delete
+- [ ] Code Comments and update README
 
 # Credits ❤️
 Expenso is a great app to get started and demonstrates the MVVM Architecture very well.
