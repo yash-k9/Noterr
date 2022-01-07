@@ -17,6 +17,9 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
         <td>
             <img src="assets/screenshot3.png" height=400px/>
         </td>
+        <td>
+            <img src="assets/screenshot4.png" height=400px/>
+        </td>
     </tr>
 </table>
 <table>
@@ -29,6 +32,9 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
         </td>
         <td>
             <img src="assets/darkmodeScreenshot3.png" height=400px/>
+        </td>
+        <td>
+            <img src="assets/darkmodeScreenshot4.png" height=400px/>
         </td>
     </tr>
 
@@ -54,9 +60,8 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 - [ ] Code Comments and update README
 
 # Credits ❤️
-- Dark/Light Mode Icons from [Expenso](https://github.com/Spikeysanju/Expenso)
-Expenso is a great app and demonstrates the MVVM Architecture very well.
-Check out Expenso README for more info
+- DarkMode/LightMode from [tablericons.com](https://tablericons.com)
+- Check out [Expenso](https://github.com/Spikeysanju/Expenso), great app which demonstrates best practices.
 
 
 <br />
