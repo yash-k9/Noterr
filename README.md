@@ -49,6 +49,7 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 - [StateFlow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
 - [Room](https://developer.android.com/topic/libraries/architecture/room)
 - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
+- [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - [Jetpack Navigation](https://developer.android.com/guide/navigation)
 
 <br />
