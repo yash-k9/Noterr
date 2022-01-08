@@ -40,6 +40,12 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 
 </table>
 
+### TODO
+- [X] Add Screenshots
+- [ ] Add Logo
+- [ ] Add Snackbar on Delete
+- [ ] Code Comments and update README
+
 <br />
 
 # Built with ⚙️
@@ -53,12 +59,6 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 - [Jetpack Navigation](https://developer.android.com/guide/navigation)
 
 <br />
-
-### TODO
-- [X] Add Screenshots
-- [ ] Add Logo
-- [ ] Add Snackbar on Delete
-- [ ] Code Comments and update README
 
 # Credits ❤️
 - DarkMode/LightMode Icons from [tablericons.com](https://tablericons.com)
