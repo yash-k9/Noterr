@@ -61,7 +61,7 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 - [ ] Code Comments and update README
 
 # Credits ❤️
-- DarkMode/LightMode from [tablericons.com](https://tablericons.com)
+- DarkMode/LightMode Icons from [tablericons.com](https://tablericons.com)
 - Check out [Expenso](https://github.com/Spikeysanju/Expenso), great app which demonstrates best practices.
 
 
