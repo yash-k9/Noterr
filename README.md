@@ -43,6 +43,7 @@ Noterr is a Note-Taking app built with modern android components using MVVM arch
 ### TODO
 - [X] Add Screenshots
 - [ ] Add Logo
+- [ ] Add KLint
 - [ ] Add Snackbar on Delete
 - [ ] Code Comments and update README
 
